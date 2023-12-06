@@ -53,7 +53,7 @@ class _BottomnavState extends State<Bottomnav> {
                   color: Colors.white,
                 ),
               ),
-              label: ""),
+              label: "New"),
           BottomNavigationBarItem(
               icon: Icon(Icons.note_outlined), label: "Order"),
           BottomNavigationBarItem(
